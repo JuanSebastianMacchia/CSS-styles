@@ -7,6 +7,8 @@
 
 <img src="readme-images/css-safefonts.png" alt="">
 
+<img src="readme-images/css-boxmodel.png" alt="">
+
 <img src="readme-images/cssmeasures.png" alt="">
 
 
