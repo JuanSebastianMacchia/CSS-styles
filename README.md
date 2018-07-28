@@ -9,6 +9,12 @@
 
 <img src="readme-images/css-boxmodel.png" alt="">
 
+<img src="readme-images/css-margins.png" alt="">
+
 <img src="readme-images/cssmeasures.png" alt="">
+
+MEDIA QUERYS
+
+<img src="readme-images/cssmquerys1.png" alt="">
 
 
