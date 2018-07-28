@@ -13,8 +13,13 @@
 
 <img src="readme-images/cssmeasures.png" alt="">
 
-MEDIA QUERYS
+Media Queries & Viewport 
 
 <img src="readme-images/cssmquerys1.png" alt="">
+
+<img src="readme-images/cssmediaq2.png" alt="">
+
+<img src="readme-images/cssmquery3.png" alt="">
+
 
 
